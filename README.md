@@ -1,6 +1,6 @@
 # 📊 Lending Club Loan Data Analysis & Prediction
 
-This project focuses on **predicting loan defaults** using machine learning techniques. The dataset comes from **Lending Club**, and we aim to preprocess the data, handle missing values, manage class imbalance using **SMOTE**, and train models like **LightGBM and SVM**. Finally, we evaluate performance using **Precision, Recall, and F1 Score** and provide recommendations for lenders.
+This project focuses on **predicting loan defaults** using machine learning techniques. The dataset comes from **Lending Club**, and we aim to preprocess the data, handle missing values, manage class imbalance using **SMOTE**, and train model SVM**. Finally, we evaluate performance using **Precision, Recall, and F1 Score** and provide recommendations for lenders.
 
 ## 📂 Dataset
 Lending Club Loan Data Analysis
